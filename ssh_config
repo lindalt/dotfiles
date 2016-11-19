@@ -1,0 +1,4 @@
+Host llt
+  HostName login.engin.umich.edu
+  User lindalt
+  Compression yes
